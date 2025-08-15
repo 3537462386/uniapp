@@ -65,6 +65,9 @@ importers:
       axios:
         specifier: ^1.11.0
         version: 1.11.0
+      uview-ui:
+        specifier: ^2.0.38
+        version: 2.0.38
       vue:
         specifier: ^3.4.21
         version: 3.5.18(typescript@5.9.2)
@@ -4816,6 +4819,10 @@ packages:
   utils-merge@1.0.1:
     resolution: {integrity: sha512-pMZTvIkT1d+TFGvDOqodOclx0QWkkgi6Tdoa8gC8ffGAAqz9pzPTZWAybbsHHoED/ztMtkv/VoYTYyShUn81hA==}
     engines: {node: '>= 0.4.0'}
+
+  uview-ui@2.0.38:
+    resolution: {integrity: sha512-6egHDf9lXHKpG3hEjRE0vMx4+VWwKk/ReTf5x18KrIKqdvdPRqO3+B8Unh7vYYwrIxzAWIlmhZ9RJpKI/4UqPQ==}
+    engines: {HBuilderX: ^3.1.0}
 
   v8-to-istanbul@8.1.1:
     resolution: {integrity: sha512-FGtKtv3xIpR6BYhvgH8MI/y78oT7d8Au3ww4QIxymrCtZEh5b8gCw2siywE+puhEmuWKDtmfrvF5UlB298ut3w==}
@@ -11150,6 +11157,8 @@ snapshots:
   util-deprecate@1.0.2: {}
 
   utils-merge@1.0.1: {}
+
+  uview-ui@2.0.38: {}
 
   v8-to-istanbul@8.1.1:
     dependencies:

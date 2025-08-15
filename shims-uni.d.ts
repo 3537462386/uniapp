@@ -8,3 +8,8 @@ declare module '@vue/runtime-core' {
 
   }
 }
+
+declare module 'uview-ui' {
+  const uView: any;
+  export default uView;
+}

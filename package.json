@@ -55,6 +55,7 @@
     "@uni-helper/axios-adapter": "^1.5.2",
     "@uni-helper/unocss-preset-uni": "^0.2.11",
     "axios": "^1.11.0",
+    "uview-ui": "^2.0.38",
     "vue": "^3.4.21",
     "vue-i18n": "^9.1.9"
   },
